@@ -1,0 +1,14 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "engines": {
+    "node": "7.2.1"
+  },
+  "dependencies": {
+    "firebase-admin": "^4.1.2",
+    "firebase-functions": "^0.5",
+    "hellosign-sdk": "^1.1.12",
+    "moment": "^2.18.1"
+  },
+  "private": true
+}

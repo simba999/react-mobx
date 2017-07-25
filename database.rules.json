@@ -1,0 +1,35 @@
+{
+  "rules": {
+    ".read": "root.child('admin').hasChild(auth.uid)",
+    ".write": "root.child('admin').hasChild(auth.uid)",
+    "sessions": {
+      ".read": true,
+      "$uid": {
+      	".write": "auth.uid === $uid"
+      }
+    },
+    "usernames": {
+      ".read": true,
+      "$username":{
+        ".write": true
+      }
+
+
+    },
+    "users": {
+
+      ".read": "root.child('users/'+auth.uid+'/waveParticipant').val() === true",
+
+    	"$uid": {
+
+        ".read": "auth.uid === $uid || ( root.child('users/'+$uid+'/waveParticipant').val() === true )",
+
+        ".write": "auth.uid === $uid",
+
+        "email": { ".validate": "newData.val().contains('@')" },
+        "userType": { ".validate": "newData.val().matches(/^student|professional$/)" }
+      }
+
+    }
+  }
+}

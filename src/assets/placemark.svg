@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Placemark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2c-Program-Detail---Hashtag" transform="translate(-100.000000, -2081.000000)">
+            <g id="Group" transform="translate(70.000000, 2081.000000)">
+                <g id="Placemark" transform="translate(30.000000, 0.000000)">
+                    <g id="Placemark-Icon">
+                        <circle id="Badge" fill="#FCB94C" cx="40" cy="40" r="40"></circle>
+                        <path d="M40.5244307,60.1390338 C40.7071533,60.1417236 54,40.9558441 54,33.5 C54,26.0441559 47.9558441,20 40.5,20 C33.0441559,20 27,26.0441559 27,33.5 C27,40.9558441 40.3417081,60.136344 40.5244307,60.1390338 Z" id="Placemark" fill="#FFFFFF"></path>
+                        <circle id="Oval" fill="#FCB94C" cx="40.5" cy="33.5" r="7.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

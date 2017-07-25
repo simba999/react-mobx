@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="23px" viewBox="0 0 11 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Brand-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Program-Logos" transform="translate(-643.000000, -694.000000)">
+            <g id="Facebook" transform="translate(633.000000, 690.000000)">
+                <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" opacity="0" xlink:href="#path-1"></use>
+                <path d="M16.9654777,15.3737741 L16.9654777,26.7305003 L12.2460576,26.7305003 L12.2460576,15.3737741 L10,15.3737741 L10,11.3618408 L12.2460576,11.3618408 L12.2460576,8.76488112 C12.2460576,6.90524207 13.1282851,4 17.0080974,4 L20.5043324,4.01420656 L20.5043324,7.90964605 L17.9670403,7.90964605 C17.5536294,7.90964605 16.9654777,8.1156412 16.9654777,9.00355137 L16.9654777,11.3618408 L20.564,11.3618408 L20.150589,15.3737741 L16.9654777,15.3737741 Z" id="Facebook-Icon" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
